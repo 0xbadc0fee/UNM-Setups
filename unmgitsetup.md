@@ -1,4 +1,4 @@
-#UNM / Github
+# UNM / Github
 Using git and github
 Here is a quick video on what github is. Please create an account on github and create a new repository. WHEN YOU SIGN UP FOR GITHUB, PLEASE DO NOT USE YOUR UNM EMAIL, YOU WANT THIS ACCOUNT TO EXIST AFTER YOU GRADUATE. The idea is that you KEEP ADDING CODE THROUGHOUT YOUR CAREER AS A PROGRAMMER. Feel free to name your new repository anything you want (please keep it appropriate). Also, initialize your git repo with a README.md. You will be writing things like what kind of code the git repo has, what does the code do, how to use the code, etc..., to your README file.
 
